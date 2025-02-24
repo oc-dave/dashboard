@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+i have public folder which has favicon.io index.html logos,manifest.json robots.txt. then src folder which has app.css,app.js app.test.js index.css index.js, logo.svg reportwebvitals.js setup.js gitignore package.json and package-lock.json. and readme.md. where should i put the code yyou provided and which file should i delete?
